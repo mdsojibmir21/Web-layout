@@ -1,0 +1,286 @@
+*{
+	margin: 0px;
+	padding: 0px;
+
+}
+
+body{
+	margin: 45px 140px;
+	font-family: 'Open Sans', sans-serif;
+
+
+}
+header{
+	width:100%;
+	float:left;
+	
+
+}
+.container{
+	width:1140px;
+	margin:0 auto;
+	height: 75px;
+}
+.logo-section{
+	width:20%;
+	float:left;
+}
+.logo-section img{
+	    height: 60px;
+    width: 160px;
+    margin: 0 auto;
+    display: block;
+}
+.menu-section{
+
+    float: left;
+    padding: 36px;
+    margin: -2px;
+}
+	.text{
+	
+	text-decoration: none;
+    text-transform: uppercase;
+    font-size: 15px;
+    padding: 10px 5px;
+    margin: 0px;
+    color:#000000;
+}
+.icon-section{
+	    width: 26%;
+    float: right;
+    padding: 20px;
+    font-size: 41px;
+}
+
+.fa.fa-facebook-official{
+	
+	background-color: white;
+	color:blue;
+}
+
+.fa.fa-twitter-square{
+	
+	background-color: white;
+    color: #4e72f5;
+}
+.fa.fa-linkedin-square{
+
+	background-color: white;
+    color: #0077B5
+}
+.fa.fa-google-plus{
+	background-color: white;
+	color: #e21c1c;
+}
+.fa.fa-sign-in{
+
+	background-color: white;
+    color: #dc5932;
+
+}
+
+.icon-section ul{
+	list-style: none;
+	display: inline;
+}
+.icon-section li{
+	display: inline;
+}
+.icon{
+	width: 100px;
+	height: 100px;
+}
+.description{
+	background-image: url(../img/manage.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 350px;
+	width:100%;
+	float:left;
+}
+.description-sub{
+	margin: 91px;
+    padding: 80px 187px;
+    background-color: #cfd0d478;
+    height: 49px;
+}
+.text-sub{
+    padding: 10px 26px;
+    font-size: 16px;
+    background-color: #191616d4;
+    border: #687171;
+    border-radius: 5px;
+    color: #ffff;
+    margin: 0px 12px;
+}
+.selection{
+	width:100%;
+	float:left;
+	
+	height: 280px;
+}
+.selection-part{
+	float:left;
+	width: 25%;
+	padding: 0px;
+}
+.blog{
+	width: 100%;
+	float:left;
+}
+.blog-text-part{
+	height: 25px;
+	width: 100%;
+	text-align: center;
+	font-size: 15px;
+}
+.blog-part-one{
+    height: 200px;
+    width: 34%;
+    float: left;
+    background-color: #0df7ec;
+    padding: 0px;
+    margin: 0px 60px;
+    color: #5a4c4c;
+}
+.blog-part-one ul{
+	padding: 20px;
+	
+}
+.blog-part-two{
+    height: 200px;
+    width: 34%;
+    float: left;
+    background-color: #0df7ec;
+    padding: 0px;
+    margin: 0px 60px;
+    color: #5a4c4c;
+}
+.blog-part-two ul{
+	padding: 20px;
+}
+.inv-part{
+	width:100%;
+	float:left;
+	height: 250px;
+    text-align: center;
+    color: #210e0e;
+    background-color:  #f7f6f6;
+}
+.inv-text{
+    text-align: center;
+    background-color: #c3c1c1;
+}
+.conact{
+	width:100%;
+	float:left;
+	background-color: #DCDCDC;
+	height: 160px;
+}
+.contact-part ul{
+	list-style: none;
+	margin: 10px;
+    display: block;
+    text-align: center;
+}
+.feedback-part{
+	text-align: center; 
+	height: 60px;
+}
+.footer-section{
+	width: 100%;
+	float:left;
+}
+.footer-top-part{
+	text-align: center;
+	background-color: #808080;
+	height: 50px;
+}
+.trust{
+	width: 200px;
+	height: 100px;
+	margin: 0px auto;
+	display: block;
+}
+.footer-middle-part{
+	background-color: #808080;
+	float:left;
+	width:25%;
+	height: 160px;
+}
+.footer-middle-part-text{
+	color:white;
+	text-align: center;
+}
+.footer-bottom-part{
+	
+}
+.footer-bottom-part-left{
+	float: left;
+    background-color: #062E38;
+    width: 50%;
+    font-size: 16px;
+    color: #DBDBDB;
+    text-align: center;
+
+}
+.footer-bottom-part-right{
+	float: left;
+    background-color: #062E38;
+    width: 50%;
+    font-size: 16px;
+    color: #DBDBDB;
+    text-align: center;
+
+}
+.container{
+	.width:1140px;
+	margin:0 auto;
+}
+.feedback{
+	width:100%;
+	float:left;
+}
+.img-png{
+	height: 90px;
+	width:90px;
+	display: block;
+	text-align: center;
+}
+.p-tag{
+	font-size: 15px;
+
+}
+.button{
+	      padding: 10px 26px;
+    background-color: #080808f7;
+    font-size: 16px;
+    border: aqua;
+    border-radius: 5px;
+    color: #c5c5e8;
+}
+h3 {
+    text-align: center;
+    color: #010000;
+}
+
+.inv-part-one{
+    float: left;
+    width: 50%;
+    color: #171616d4;
+    background-color: #c9c9ec;
+}
+.inv-part-two{
+    float: left;
+    width: 50%;
+    color: #171616d4;
+    background-color: #c9c9ec;
+
+}
+.inv-part-sub{
+
+}
+.inv-font{
+	font-size: 15px;
+}
